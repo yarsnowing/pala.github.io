@@ -10,7 +10,7 @@ categories:
 先说一件小事
 <iframe width="653" height="367" src="http://ou0dzbopv.bkt.clouddn.com/Record_2017_07_25_15_53_04_704.mp4" frameborder="0" allowfullscreen></iframe>
 就是回来飙的很high的那段路,休息后一个转弯的地方
-
+![enter image description here](https://thumbnail0.baidupcs.com/thumbnail/6ac77a6e5563ba2906b452001db3659d?fid=3727937314-250528-691166737776875&time=1501599600&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-QuFml80M06GNVXhgD%2FmJQw%2FV%2BU0%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=4939313529697389057&dp-callid=0&size=c710_u400&quality=100&vuk=-&ft=video)
 ##1、为什么要写？
 
 「写本身就是写的报酬」
