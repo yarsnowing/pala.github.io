@@ -5,14 +5,14 @@ markdown:         kramdown
 permalink:        /:year/:month/:day/:title/
 
 # Setup
-title:            如是我聞
-description:      Keep Calm and Follow the Code
-url:              http://ztpala.com
-domain:           ztpala.com
-email:            ztpala@gmail.com
+title:            yarsnowing
+description:      I Am Free!
+url:              http://yarsnowing.me/
+domain:           yarsnowing.me
+email:            1403946480.com
 twitter_username: ztpala
-github_username:  pala
-github_repo:      https://github.com/pala/pala.github.io
+github_username:  yarsnowing
+github_repo:      https://github.com/yarsnowing/yarsnowing.github.io
 google_analytics: UA-5531632-1
 timezone:         America/New_York
 subscribe:        http://feed.ztpala.com
