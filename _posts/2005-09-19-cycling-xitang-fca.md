@@ -8,7 +8,7 @@ categories:
     - 自行車
 ---
 先说一件小事
-<iframe width="653" height="367" src="https://www.youtube.com/embed/2MsN8gpT6jY" frameborder="0" allowfullscreen></iframe>
+<iframe width="653" height="367" src="http://ou0dzbopv.bkt.clouddn.com/Record_2017_07_25_15_53_04_704.mp4" frameborder="0" allowfullscreen></iframe>
 就是回来飙的很high的那段路,休息后一个转弯的地方
 
 ##1、为什么要写？
