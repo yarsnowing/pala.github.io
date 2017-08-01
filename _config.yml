@@ -14,8 +14,8 @@ twitter_username: ztpala
 github_username:  yarsnowing
 github_repo:      https://github.com/yarsnowing/yarsnowing.github.io
 google_analytics: UA-5531632-1
-timezone:         America/New_York
-subscribe:        http://feed.ztpala.com
+timezone:         Asia/Shanghai
+subscribe:        http://yarsnowing.me/
 baseurl: ""
 theme: minima
 gems:
