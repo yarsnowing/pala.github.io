@@ -6,11 +6,12 @@ permalink:        /:year/:month/:day/:title/
 
 # Setup
 title:            yarsnowing
-description:      I Am Free!
+description:      I Am Free !
 url:              http://yarsnowing.me/
 domain:           yarsnowing.me
 email:            1403946480@qq.com
-twitter_username: ztpala
+douban_username:  yarsnowing
+zhihu_username:   yarsnowing
 github_username:  yarsnowing
 github_repo:      https://github.com/yarsnowing/yarsnowing.github.io
 google_analytics: UA-5531632-1
