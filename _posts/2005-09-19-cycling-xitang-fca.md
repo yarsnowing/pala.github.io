@@ -7,21 +7,21 @@ tags:
 categories:
     - 生活 
 ---
-## 我仍记得那花名
-### 这是一个起始于火车的的故事。。。（共计3回）
+## “我仍记得那花名”
+### 视频讲述了一个始于火车的故事。。。（共计3回）
 
 
-#### 首先要十分感谢：絮予 👼 Eileen；照照想穿小裙子； Avril ；小妤；星；moonbyul；奶瓶；初衷；北在北方 还有我没能及时提到的人。没有他们，我是不可能完成这个创作的。
+#### 这里要感谢：絮予 👼 Eileen；照照想穿小裙子； Avril ；小妤；星；moonbyul；奶瓶；初衷；北在北方 还有我没能及时提到的人。没有他们，我是不可能完成这个创作的。(由于视频大小的关系，这里的画质一般，高清画质我会再给链接的)
 
 
 
-#### 第一回
+#### 第一回：
 <iframe width="800" height="480" src="http://gsgs.oss-cn-qingdao.aliyuncs.com/%E5%BD%95%E5%88%B6_2017_08_04_00_47_10_329.mp4" frameborder="0" allowfullscreen></iframe>
 
-#### 第二回
+#### 第二回：
 <iframe width="800" height="480" src="http://gsgs.oss-cn-qingdao.aliyuncs.com/%E5%BD%95%E5%88%B6_2017_08_04_01_23_53_815.mp4" frameborder="0" allowfullscreen></iframe>
 
-#### 第三回
+#### 第三回：
 马上就会更新。。。
 
 
